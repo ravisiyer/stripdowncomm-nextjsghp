@@ -1,0 +1,3 @@
+:HL["/stripdowncomm-nextjsghp/_next/static/chunks/ba63e9a76ec6bcd7.css","style"]
+:HL["/stripdowncomm-nextjsghp/_next/static/media/Geist_Variable-s.p.f19e4721.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"H3LvP9XMzDze0_giNOj0u","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
